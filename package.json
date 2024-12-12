@@ -1,0 +1,19 @@
+{
+  "name": "buymeacoffee",
+  "version": "1.2.3",
+  "description": "A simple Buy Me A Coffee API Client",
+  "main": "buymeacoffee.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node buymeacoffee.js"
+  },
+  "keywords": [
+    "buymeacoffee"
+  ],
+  "author": "Daeky",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
